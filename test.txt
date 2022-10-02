@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F8A5-A921
+
+ Directory of C:\Users\Ravindra\Desktop\javaproject
+
+02-10-2022  17:14    <DIR>          .
+02-10-2022  17:14    <DIR>          ..
+02-10-2022  17:08               419 Hello.class
+02-10-2022  14:59               112 Hello.java
+02-10-2022  17:11    <DIR>          test
+02-10-2022  17:14                 0 test.txt
+               3 File(s)            531 bytes
+               3 Dir(s)  23,145,123,840 bytes free
